@@ -128,4 +128,12 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
