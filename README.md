@@ -84,6 +84,7 @@ Consistency > Speed. 🚀
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@ Consistency > Speed. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 ## String
@@ -156,4 +158,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
