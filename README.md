@@ -70,6 +70,7 @@ Consistency > Speed. 🚀
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -121,10 +122,12 @@ Consistency > Speed. 🚀
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -133,6 +136,7 @@ Consistency > Speed. 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
