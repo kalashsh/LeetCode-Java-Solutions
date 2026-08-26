@@ -129,10 +129,12 @@ Consistency > Speed. 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +168,12 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
