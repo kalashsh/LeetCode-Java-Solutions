@@ -86,6 +86,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
+| [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -181,4 +182,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
