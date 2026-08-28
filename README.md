@@ -70,6 +70,7 @@ Consistency > Speed. 🚀
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
@@ -88,6 +89,7 @@ Consistency > Speed. 🚀
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
+| [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
@@ -124,6 +126,7 @@ Consistency > Speed. 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
@@ -204,6 +207,7 @@ Consistency > Speed. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
@@ -222,4 +226,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
