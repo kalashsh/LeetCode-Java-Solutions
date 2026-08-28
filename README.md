@@ -160,6 +160,7 @@ Consistency > Speed. 🚀
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
