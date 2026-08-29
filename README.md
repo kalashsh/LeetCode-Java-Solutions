@@ -174,6 +174,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0009-palindrome-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,4 +246,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
