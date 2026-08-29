@@ -86,6 +86,7 @@ Consistency > Speed. 🚀
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
@@ -122,6 +123,7 @@ Consistency > Speed. 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
@@ -188,6 +190,7 @@ Consistency > Speed. 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 ## Divide and Conquer
