@@ -93,6 +93,7 @@ Consistency > Speed. 🚀
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -252,4 +253,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
