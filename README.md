@@ -95,6 +95,7 @@ Consistency > Speed. 🚀
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -221,6 +222,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
+| [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,4 +264,12 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
