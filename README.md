@@ -89,6 +89,7 @@ Consistency > Speed. 🚀
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
@@ -221,6 +223,7 @@ Consistency > Speed. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
