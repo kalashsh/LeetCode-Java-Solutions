@@ -179,6 +179,7 @@ Consistency > Speed. 🚀
 | [0009-palindrome-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Consistency > Speed. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
@@ -272,4 +274,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
