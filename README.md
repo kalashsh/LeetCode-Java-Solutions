@@ -91,6 +91,7 @@ Consistency > Speed. 🚀
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
