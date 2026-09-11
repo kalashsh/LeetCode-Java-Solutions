@@ -95,6 +95,7 @@ Consistency > Speed. 🚀
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
@@ -130,6 +131,7 @@ Consistency > Speed. 🚀
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
@@ -163,6 +165,7 @@ Consistency > Speed. 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -264,6 +267,7 @@ Consistency > Speed. 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 ## Bidirectional Search
 |  |
@@ -279,6 +283,7 @@ Consistency > Speed. 🚀
 | [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
