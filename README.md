@@ -89,6 +89,7 @@ Consistency > Speed. 🚀
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0057-insert-interval) |
@@ -273,6 +274,7 @@ Consistency > Speed. 🚀
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
@@ -315,4 +317,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
