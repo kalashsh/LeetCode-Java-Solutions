@@ -89,6 +89,7 @@ Consistency > Speed. 🚀
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
@@ -197,6 +198,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0009-palindrome-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 ## Bit Manipulation
@@ -274,6 +276,7 @@ Consistency > Speed. 🚀
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
