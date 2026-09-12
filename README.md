@@ -118,6 +118,7 @@ Consistency > Speed. 🚀
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -137,6 +138,7 @@ Consistency > Speed. 🚀
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Tree
 |  |
