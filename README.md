@@ -215,6 +215,7 @@ Consistency > Speed. 🚀
 | [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 ## Backtracking
 |  |
@@ -343,4 +345,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
