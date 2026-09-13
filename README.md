@@ -86,6 +86,7 @@ Consistency > Speed. 🚀
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
@@ -239,6 +240,7 @@ Consistency > Speed. 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0191-number-of-1-bits) |
@@ -272,6 +274,7 @@ Consistency > Speed. 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 ## Backtracking
