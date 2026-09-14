@@ -91,6 +91,7 @@ Consistency > Speed. 🚀
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
@@ -114,6 +115,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
@@ -129,6 +131,7 @@ Consistency > Speed. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
@@ -139,6 +142,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
