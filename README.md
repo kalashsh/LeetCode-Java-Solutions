@@ -178,6 +178,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -188,6 +189,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
@@ -200,6 +202,7 @@ Consistency > Speed. 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -212,6 +215,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0543-diameter-of-binary-tree) |
