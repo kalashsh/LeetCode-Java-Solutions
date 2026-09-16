@@ -149,6 +149,7 @@ Consistency > Speed. 🚀
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -234,6 +235,7 @@ Consistency > Speed. 🚀
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 ## Bit Manipulation
 |  |
@@ -368,6 +370,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## Newton's Method
 |  |
 | ------- |
