@@ -307,6 +307,7 @@ Consistency > Speed. 🚀
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,4 +383,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
