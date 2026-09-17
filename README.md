@@ -238,12 +238,14 @@ Consistency > Speed. 🚀
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0191-number-of-1-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
 | ------- |
