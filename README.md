@@ -72,6 +72,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
@@ -102,6 +103,7 @@ Consistency > Speed. 🚀
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
@@ -243,6 +245,7 @@ Consistency > Speed. 🚀
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
