@@ -252,6 +252,7 @@ Consistency > Speed. 🚀
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -401,6 +402,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Interactive
 |  |
 | ------- |
