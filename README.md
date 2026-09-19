@@ -92,6 +92,7 @@ Consistency > Speed. 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
@@ -321,6 +322,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
