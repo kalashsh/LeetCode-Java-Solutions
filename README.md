@@ -120,6 +120,7 @@ Consistency > Speed. 🚀
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Consistency > Speed. 🚀
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Consistency > Speed. 🚀
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
