@@ -121,6 +121,7 @@ Consistency > Speed. 🚀
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Consistency > Speed. 🚀
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -450,4 +452,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
