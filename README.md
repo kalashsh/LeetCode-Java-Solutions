@@ -106,6 +106,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
@@ -338,6 +339,7 @@ Consistency > Speed. 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
