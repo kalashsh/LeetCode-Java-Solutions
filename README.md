@@ -123,6 +123,7 @@ Consistency > Speed. 🚀
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -145,6 +146,7 @@ Consistency > Speed. 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Consistency > Speed. 🚀
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -347,6 +350,7 @@ Consistency > Speed. 🚀
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -394,6 +398,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Knapsack Problem
 |  |
 | ------- |
