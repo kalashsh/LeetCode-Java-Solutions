@@ -121,6 +121,7 @@ Consistency > Speed. 🚀
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -349,6 +350,7 @@ Consistency > Speed. 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
