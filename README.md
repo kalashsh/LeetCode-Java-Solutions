@@ -117,6 +117,7 @@ Consistency > Speed. 🚀
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
@@ -186,6 +187,7 @@ Consistency > Speed. 🚀
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -337,6 +339,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0198-house-robber) |
+| [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
@@ -354,6 +357,7 @@ Consistency > Speed. 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -405,6 +409,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Knapsack Problem
 |  |
