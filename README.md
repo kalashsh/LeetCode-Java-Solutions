@@ -128,6 +128,7 @@ Consistency > Speed. 🚀
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -388,6 +389,7 @@ Consistency > Speed. 🚀
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
+| [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Binary Search Tree
 |  |
 | ------- |
