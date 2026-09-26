@@ -133,6 +133,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -374,6 +375,7 @@ Consistency > Speed. 🚀
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Backtracking
 |  |
 | ------- |
