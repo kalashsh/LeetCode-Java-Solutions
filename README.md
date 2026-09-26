@@ -132,6 +132,7 @@ Consistency > Speed. 🚀
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -157,6 +158,7 @@ Consistency > Speed. 🚀
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Consistency > Speed. 🚀
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
