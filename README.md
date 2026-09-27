@@ -201,6 +201,7 @@ Consistency > Speed. 🚀
 | [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
@@ -286,6 +287,7 @@ Consistency > Speed. 🚀
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -375,6 +377,7 @@ Consistency > Speed. 🚀
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Backtracking
 |  |
