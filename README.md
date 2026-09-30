@@ -137,6 +137,7 @@ Consistency > Speed. 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -383,6 +384,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Backtracking
 |  |
 | ------- |
