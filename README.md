@@ -180,6 +180,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
@@ -354,6 +355,7 @@ Consistency > Speed. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
@@ -390,6 +392,7 @@ Consistency > Speed. 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 ## Bidirectional Search
@@ -510,6 +513,7 @@ Consistency > Speed. 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
