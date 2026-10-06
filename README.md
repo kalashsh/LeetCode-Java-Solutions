@@ -73,6 +73,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -329,6 +330,7 @@ Consistency > Speed. 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
@@ -339,6 +341,7 @@ Consistency > Speed. 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
@@ -451,6 +454,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
