@@ -121,6 +121,7 @@ Consistency > Speed. 🚀
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
@@ -309,6 +310,7 @@ Consistency > Speed. 🚀
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -348,6 +350,7 @@ Consistency > Speed. 🚀
 | [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
