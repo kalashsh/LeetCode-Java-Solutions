@@ -244,6 +244,7 @@ Consistency > Speed. 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -295,6 +296,7 @@ Consistency > Speed. 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0572-subtree-of-another-tree) |
@@ -326,6 +328,7 @@ Consistency > Speed. 🚀
 | [0136-single-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -405,6 +408,7 @@ Consistency > Speed. 🚀
 | [0074-search-a-2d-matrix](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
