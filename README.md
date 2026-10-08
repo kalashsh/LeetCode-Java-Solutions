@@ -79,6 +79,7 @@ Consistency > Speed. 🚀
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -204,6 +205,7 @@ Consistency > Speed. 🚀
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
+| [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -554,6 +556,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
