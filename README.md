@@ -194,6 +194,7 @@ Consistency > Speed. 🚀
 | [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
@@ -397,6 +398,7 @@ Consistency > Speed. 🚀
 | [0055-jump-game](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
