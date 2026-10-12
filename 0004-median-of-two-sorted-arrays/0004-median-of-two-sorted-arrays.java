@@ -6,7 +6,7 @@ class Solution {
         while (i < a.length && j < b.length)
             c[k++] = a[i] < b[j] ? a[i++] : b[j++];
 
-        while (i < a.length) c[k++] = a[i++];
+        while (i < a.length) c[k++] = a[i++]; 
         while (j < b.length) c[k++] = b[j++];
 
         int n = c.length;
