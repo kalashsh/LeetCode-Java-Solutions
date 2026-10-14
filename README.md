@@ -206,6 +206,7 @@ Consistency > Speed. 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0115-distinct-subsequences) |
