@@ -148,6 +148,7 @@ Consistency > Speed. 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
@@ -194,6 +195,7 @@ Consistency > Speed. 🚀
 | [0268-missing-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 ## String
@@ -233,6 +235,7 @@ Consistency > Speed. 🚀
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -448,6 +451,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
