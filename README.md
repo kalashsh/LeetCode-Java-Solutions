@@ -119,6 +119,7 @@ Consistency > Speed. 🚀
 | [0130-surrounded-regions](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0162-find-peak-element) |
@@ -167,6 +168,7 @@ Consistency > Speed. 🚀
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
@@ -211,6 +213,7 @@ Consistency > Speed. 🚀
 | [0079-word-search](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -425,6 +428,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -572,6 +576,7 @@ Consistency > Speed. 🚀
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Counting
 |  |
@@ -613,4 +618,12 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
