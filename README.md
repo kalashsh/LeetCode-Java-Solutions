@@ -239,6 +239,7 @@ Consistency > Speed. 🚀
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -276,6 +277,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
