@@ -158,6 +158,7 @@ Consistency > Speed. 🚀
 | [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -192,6 +193,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -288,6 +290,7 @@ Consistency > Speed. 🚀
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
