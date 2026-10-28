@@ -167,6 +167,7 @@ Consistency > Speed. 🚀
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -402,6 +403,7 @@ Consistency > Speed. 🚀
 | [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -481,6 +483,7 @@ Consistency > Speed. 🚀
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -542,6 +545,7 @@ Consistency > Speed. 🚀
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
