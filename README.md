@@ -409,6 +409,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -423,6 +424,7 @@ Consistency > Speed. 🚀
 | [0011-container-with-most-water](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
