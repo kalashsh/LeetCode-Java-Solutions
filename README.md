@@ -255,6 +255,7 @@ Consistency > Speed. 🚀
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -469,6 +470,7 @@ Consistency > Speed. 🚀
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -678,6 +680,7 @@ Consistency > Speed. 🚀
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -694,4 +697,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
