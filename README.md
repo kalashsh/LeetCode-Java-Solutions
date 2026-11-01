@@ -78,6 +78,7 @@ Consistency > Speed. 🚀
 | [0155-min-stack](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -429,6 +430,7 @@ Consistency > Speed. 🚀
 | [0148-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -445,6 +447,7 @@ Consistency > Speed. 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
@@ -589,6 +592,7 @@ Consistency > Speed. 🚀
 | [0050-powx-n](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
