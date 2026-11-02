@@ -141,6 +141,7 @@ Consistency > Speed. 🚀
 | [0417-pacific-atlantic-water-flow](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
@@ -221,6 +222,7 @@ Consistency > Speed. 🚀
 | [0242-valid-anagram](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -393,6 +395,7 @@ Consistency > Speed. 🚀
 | [0268-missing-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
