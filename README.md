@@ -183,6 +183,7 @@ Consistency > Speed. 🚀
 | [0076-minimum-window-substring](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -427,6 +428,7 @@ Consistency > Speed. 🚀
 | [0092-reverse-linked-list-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0147-insertion-sort-list) |
