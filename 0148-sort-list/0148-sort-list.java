@@ -1,26 +1,65 @@
+
 class Solution {
-    public ListNode sortList(ListNode h) {
-        if (h == null || h.next == null) return h;
-        ListNode s = h, f = h.next;
-        while (f != null && f.next != null) {
-            s = s.next;
-            f = f.next.next;
+    public ListNode sortList(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
         }
-        ListNode r = s.next;
-        s.next = null;
-        return merge(sortList(h), sortList(r));
-    }
-    ListNode merge(ListNode a, ListNode b) {
-        ListNode d = new ListNode(0), c = d;
-        while (a != null && b != null) {
-            if (a.val < b.val) {
-                c.next = a; a = a.next;
-            } else {
-                c.next = b; b = b.next;
+        int n = 0;
+        ListNode curr = head;
+
+        while (curr != null) {
+            n++;
+            curr = curr.next;
+        }
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        for (int size = 1; size < n; size *= 2) {
+            ListNode prev = dummy;
+            curr = dummy.next;
+            while (curr != null) {
+                ListNode left = curr;
+                ListNode right = split(left, size);
+                curr = split(right, size);
+
+                prev = merge(left, right, prev);
             }
-            c = c.next;
         }
-        c.next = a != null ? a : b;
-        return d.next;
+
+        return dummy.next;
+    }
+    private ListNode split(ListNode head, int size) {
+        if (head == null) return null;
+
+        for (int i = 1; head.next != null && i < size; i++) {
+            head = head.next;
+        }
+
+        ListNode second = head.next;
+        head.next = null;
+
+        return second;
+    }
+    private ListNode merge(ListNode l1, ListNode l2, ListNode prev) {
+        ListNode curr = prev;
+
+        while (l1 != null && l2 != null) {
+            if (l1.val <= l2.val) {
+                curr.next = l1;
+                l1 = l1.next;
+            } else {
+                curr.next = l2;
+                l2 = l2.next;
+            }
+
+            curr = curr.next;
+        }
+
+        curr.next = (l1 != null) ? l1 : l2;
+
+        while (curr.next != null) {
+            curr = curr.next;
+        }
+
+        return curr;
     }
 }
