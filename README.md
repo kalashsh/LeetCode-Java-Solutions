@@ -144,6 +144,7 @@ Consistency > Speed. 🚀
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
@@ -302,6 +303,7 @@ Consistency > Speed. 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
