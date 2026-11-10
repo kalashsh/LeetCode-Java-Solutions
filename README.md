@@ -98,6 +98,7 @@ Consistency > Speed. 🚀
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Consistency > Speed. 🚀
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -314,6 +316,7 @@ Consistency > Speed. 🚀
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
@@ -733,6 +736,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Memoization
 |  |
 | ------- |
