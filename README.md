@@ -167,6 +167,7 @@ Consistency > Speed. 🚀
 | [1672-richest-customer-wealth](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -217,6 +218,7 @@ Consistency > Speed. 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
@@ -642,6 +644,7 @@ Consistency > Speed. 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Knapsack Problem
