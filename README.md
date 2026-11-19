@@ -173,6 +173,7 @@ Consistency > Speed. 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -217,6 +218,7 @@ Consistency > Speed. 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -637,6 +639,7 @@ Consistency > Speed. 🚀
 | [1208-get-equal-substrings-within-budget](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Knapsack Problem
 |  |
 | ------- |
