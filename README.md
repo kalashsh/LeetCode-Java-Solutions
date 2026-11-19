@@ -153,6 +153,7 @@ Consistency > Speed. 🚀
 | [0875-koko-eating-bananas](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -479,6 +480,7 @@ Consistency > Speed. 🚀
 | [0567-permutation-in-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0986-interval-list-intersections) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
@@ -757,4 +759,8 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0146-lru-cache) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
