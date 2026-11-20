@@ -177,6 +177,7 @@ Consistency > Speed. 🚀
 | [2537-count-the-number-of-good-subarrays](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -246,6 +247,7 @@ Consistency > Speed. 🚀
 | [2141-maximum-running-time-of-n-computers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## String
 |  |
 | ------- |
@@ -541,6 +543,7 @@ Consistency > Speed. 🚀
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3665-twisted-mirror-path-count) |
