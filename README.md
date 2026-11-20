@@ -440,6 +440,7 @@ Consistency > Speed. 🚀
 | [0191-number-of-1-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
@@ -538,6 +539,7 @@ Consistency > Speed. 🚀
 | [0139-word-break](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
