@@ -179,6 +179,7 @@ Consistency > Speed. 🚀
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -226,6 +227,7 @@ Consistency > Speed. 🚀
 | [2747-count-zero-request-servers](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2848-points-that-intersect-with-cars](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -284,6 +286,7 @@ Consistency > Speed. 🚀
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
@@ -349,6 +352,7 @@ Consistency > Speed. 🚀
 | [0572-subtree-of-another-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +373,7 @@ Consistency > Speed. 🚀
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
