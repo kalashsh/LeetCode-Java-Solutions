@@ -70,6 +70,7 @@ Consistency > Speed. 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -255,6 +256,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
@@ -735,6 +737,7 @@ Consistency > Speed. 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
