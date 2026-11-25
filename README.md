@@ -82,6 +82,7 @@ Consistency > Speed. 🚀
 | [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -150,6 +151,7 @@ Consistency > Speed. 🚀
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -321,6 +323,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
