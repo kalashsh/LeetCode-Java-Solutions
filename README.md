@@ -82,6 +82,7 @@ Consistency > Speed. 🚀
 | [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -153,6 +154,7 @@ Consistency > Speed. 🚀
 | [0643-maximum-average-subarray-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -319,6 +321,7 @@ Consistency > Speed. 🚀
 | [0085-maximal-rectangle](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [2104-sum-of-subarray-ranges](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
