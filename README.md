@@ -193,6 +193,7 @@ Consistency > Speed. 🚀
 | [3665-twisted-mirror-path-count](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Consistency > Speed. 🚀
 | [3331-find-subtree-sizes-after-changes](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -599,6 +601,7 @@ Consistency > Speed. 🚀
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -721,6 +724,7 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -809,4 +813,12 @@ Consistency > Speed. 🚀
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
