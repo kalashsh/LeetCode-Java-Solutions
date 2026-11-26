@@ -80,6 +80,7 @@ Consistency > Speed. 🚀
 | [0173-binary-search-tree-iterator](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -284,6 +285,7 @@ Consistency > Speed. 🚀
 | [0242-valid-anagram](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -665,6 +667,7 @@ Consistency > Speed. 🚀
 | [0143-reorder-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kalashsh/LeetCode-Java-Solutions/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
